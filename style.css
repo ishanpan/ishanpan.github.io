@@ -45,6 +45,7 @@ body {
 
 /* This css is only applied when fullscreen is active. */
 .player:fullscreen {
+	width: 0;
 	max-width: none;
 	width: 100%;
 	border-radius: 0px;
