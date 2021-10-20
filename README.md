@@ -1,7 +1,7 @@
 
 Web app with ability to play mp4 weblinks.
 
-## Deployed at ishanpan.github.io/videoplayer.github.io/
+## Deployed at https://ishanpan.github.io/videoplayer.github.io/
 
 
 <img src='Screenshots/Seek options visible.png' alt="Seek options visible screenshot">
